@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 200;
+    text-decoration: overline;
+}
