@@ -1,0 +1,14 @@
+.card{
+    padding: 10px;
+    border: 2px solid #25b1cc;
+    text-align: center;
+}
+
+.button {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #25b1cc;
+    border-radius: 20px;
+    background-color: #25b1cc;
+    padding: 10px 20px;
+}
