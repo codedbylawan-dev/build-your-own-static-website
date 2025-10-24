@@ -1,0 +1,6 @@
+.card {
+    height: 50vh;
+    width: 100vw;
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+}
